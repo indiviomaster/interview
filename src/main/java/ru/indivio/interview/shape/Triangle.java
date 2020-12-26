@@ -1,4 +1,4 @@
-package Shape;
+package ru.indivio.interview.shape;
 
 public class Triangle implements Shape {
     Point a;

@@ -1,4 +1,4 @@
-package Car;
+package ru.indivio.interview.car;
 
 abstract public class Car { //не обязательно делать abstract
     //public Car.Engine engine; нарушение инкапсуляции изменен на private

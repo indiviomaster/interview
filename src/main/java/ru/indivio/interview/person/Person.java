@@ -1,4 +1,4 @@
-package Person;
+package ru.indivio.interview.person;
 
 public class Person {
 

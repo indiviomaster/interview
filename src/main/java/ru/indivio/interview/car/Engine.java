@@ -1,4 +1,4 @@
-package Car;
+package ru.indivio.interview.car;
 
 public class Engine {
     String name;
