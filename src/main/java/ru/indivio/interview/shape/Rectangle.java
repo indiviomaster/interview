@@ -1,4 +1,4 @@
-package Shape;
+package ru.indivio.interview.shape;
 
 public class Rectangle implements Shape {
     Point a;

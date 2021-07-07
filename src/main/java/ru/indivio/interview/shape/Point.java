@@ -1,4 +1,4 @@
-package Shape;
+package ru.indivio.interview.shape;
 
 public class Point {
     protected int x;

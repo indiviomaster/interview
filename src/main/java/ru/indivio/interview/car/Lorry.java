@@ -1,4 +1,4 @@
-package Car;
+package ru.indivio.interview.car;
 
 // class Lorry extends Car , Moveable , Stopable не может extend больше 1 класса
 public class Lorry extends Car implements Moveable,Stopable {

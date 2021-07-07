@@ -1,4 +1,4 @@
-package Car;
+package ru.indivio.interview.car;
 
 public class LightWeightCar extends Car implements Moveable, Openable {
 
